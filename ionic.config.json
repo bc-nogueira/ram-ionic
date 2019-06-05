@@ -1,5 +1,7 @@
 {
   "name": "ramIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
